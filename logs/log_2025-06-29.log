@@ -1,0 +1,51 @@
+2025-06-29 10:34:32,153 - INFO - DataProcessing Intialized
+2025-06-29 10:34:33,766 - INFO - Data loaded sucesfully for Data Processing
+2025-06-29 10:34:34,018 - INFO - Filtered users sucesfully...
+2025-06-29 10:34:35,831 - INFO - Scalind done for Processing 
+2025-06-29 10:34:36,149 - INFO - Encoding done for Users and Anime
+2025-06-29 10:34:36,998 - INFO - Data splitted sucesfullyy
+2025-06-29 10:34:37,064 - INFO - user2user_encoded saved sucesfully in processed directory
+2025-06-29 10:34:37,071 - INFO - user2user_decoded saved sucesfully in processed directory
+2025-06-29 10:34:37,165 - INFO - anim2anime_encoded saved sucesfully in processed directory
+2025-06-29 10:34:37,226 - INFO - anim2anime_decoded saved sucesfully in processed directory
+2025-06-29 10:34:46,501 - INFO - ALl the training testing data as well as rating_df is saved now..
+2025-06-29 10:35:00,523 - INFO - DF AND SYNOPSIS_Df saved sucesfullyy...
+2025-06-29 10:35:00,536 - INFO - Data Processing Pipeline Run sucesfully .... Congrats
+2025-06-29 10:58:03,465 - INFO - Model Training & COMET ML initialized..
+2025-06-29 10:58:03,633 - INFO - Data loaded sucesfully for Model Trainig
+2025-06-29 10:58:03,687 - INFO - Succesfully read the YAML file
+2025-06-29 10:58:03,687 - INFO - Loaded configuration from config.yaml
+2025-06-29 10:58:03,844 - INFO - Model created sucesfully....
+2025-06-29 11:00:04,150 - INFO - Model Training & COMET ML initialized..
+2025-06-29 11:00:04,343 - INFO - Data loaded sucesfully for Model Trainig
+2025-06-29 11:00:04,387 - INFO - Succesfully read the YAML file
+2025-06-29 11:00:04,387 - INFO - Loaded configuration from config.yaml
+2025-06-29 11:00:04,528 - INFO - Model created sucesfully....
+2025-06-29 11:01:49,597 - INFO - Model training Completedd.....
+2025-06-29 11:01:49,724 - INFO - Model saved to artifacts/model\model.h5
+2025-06-29 11:01:49,732 - INFO - Extracting weights for user_embedding
+2025-06-29 11:01:49,752 - INFO - Extracting weights for anime_embedding
+2025-06-29 11:01:49,896 - INFO - User and Anime weights saved sucesfully....
+2025-06-29 11:10:37,578 - INFO - DataProcessing Intialized
+2025-06-29 11:10:39,140 - INFO - Data loaded sucesfully for Data Processing
+2025-06-29 11:10:39,508 - INFO - Filtered users sucesfully...
+2025-06-29 11:10:40,974 - INFO - Scalind done for Processing 
+2025-06-29 11:10:41,177 - INFO - Encoding done for Users and Anime
+2025-06-29 11:10:42,071 - INFO - Data splitted sucesfullyy
+2025-06-29 11:10:42,079 - INFO - user2user_encoded saved sucesfully in processed directory
+2025-06-29 11:10:42,092 - INFO - user2user_decoded saved sucesfully in processed directory
+2025-06-29 11:10:42,182 - INFO - anim2anime_encoded saved sucesfully in processed directory
+2025-06-29 11:10:42,309 - INFO - anim2anime_decoded saved sucesfully in processed directory
+2025-06-29 11:10:48,661 - INFO - ALl the training testing data as well as rating_df is saved now..
+2025-06-29 11:11:00,605 - INFO - DF AND SYNOPSIS_Df saved sucesfullyy...
+2025-06-29 11:11:00,605 - INFO - Data Processing Pipeline Run sucesfully .... Congrats
+2025-06-29 11:11:07,446 - INFO - Model Training & COMET ML initialized..
+2025-06-29 11:11:07,693 - INFO - Data loaded sucesfully for Model Trainig
+2025-06-29 11:11:07,779 - INFO - Succesfully read the YAML file
+2025-06-29 11:11:07,779 - INFO - Loaded configuration from config.yaml
+2025-06-29 11:11:08,847 - INFO - Model created sucesfully....
+2025-06-29 11:12:58,419 - INFO - Model training Completedd.....
+2025-06-29 11:12:58,488 - INFO - Model saved to artifacts/model\model.h5
+2025-06-29 11:12:58,488 - INFO - Extracting weights for user_embedding
+2025-06-29 11:12:58,504 - INFO - Extracting weights for anime_embedding
+2025-06-29 11:12:58,567 - INFO - User and Anime weights saved sucesfully....

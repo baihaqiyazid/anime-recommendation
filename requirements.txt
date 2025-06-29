@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+setuptools
+google-cloud-storage
+pyyaml
+tensorflow==2.12.0
+comet-ml
+dvc
+dvc-gs
+flask
+joblib
+wordcloud
